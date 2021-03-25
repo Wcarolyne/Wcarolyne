@@ -2,7 +2,8 @@
 
 
 
-
+![python badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![MySQL badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🔭 I’m currently working on python...
 - 🌱 I’m currently learning ...
@@ -13,3 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![twitter badge](https://img.shields.io/badge/yellowmilk%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
